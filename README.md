@@ -72,10 +72,6 @@ DG-BDH bridges heterogeneous physiological sensing domains through four compleme
 - Two complementary discriminators with reversed labels enforce symmetric, neutral domain alignment
 - Combined with an annealed Gradient Reversal Layer (GRL) schedule for stable training
 
-<p align="center">
-  <img src="assets/ctam_bah_module.png" alt="CTAM and BAH Modules" width="700"/>
-</p>
-
 ---
 
 ## 📂 Datasets
